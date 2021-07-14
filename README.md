@@ -10,3 +10,14 @@ ShadowsocksR、 Shadowsocks、ClashR、vmess 、vpn、V2ray、Clash、V2ray 翻�
 | ShadowsocksR | [SSR](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases)   |            使用 Shadowsocks                      | **[SSRR](https://github.com/shadowsocksrr/shadowsocksr-android/releases)** |                    使用 Shadowsocks                                 |                                                              |
 | Clash       |  **[Clash](https://github.com/Fndroid/clash_for_windows_pkg/releases)**    |  **[ClashX](https://github.com/yichengchen/clashX/releases)**   |    **[ClashR](https://github.com/BROBIRD/ClashForAndroid/releases)**    |                                                              |                                  |
 | V2ray        | [V2rayN](https://github.com/2dust/v2rayN/releases)  <br/> [Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)   <br/>  [V2rayW](https://github.com/Cenmrev/V2RayW/releases)    |  [V2rayX](https://github.com/Cenmrev/V2RayX/releases) | [V2rayNG](https://github.com/2dust/v2rayNG/releases)  | [kitsunebi](https://apps.apple.com/us/app/kitsunebi-proxy-utility/id1446584073) |
+
+
+
+
+
+
+
+
+
+
+## 本项目不做VPN分享，如果您希望获得最佳的科学上网方案 [点击这里](https://github.com/githubvpn007/v2rayNvpn)  
