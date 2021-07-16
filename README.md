@@ -29,4 +29,4 @@ ShadowsocksR、 Shadowsocks、ClashR、vmess 、vpn、V2ray、Clash、V2ray  翻
 
 <br/>
 
-## [如果你想知道clash/ss/ssr/v2ray/trojan 的区别的话 请点这里](https://github.com/githubvpn007/proxy)
+## 如果你想知道clash/ss/ssr/v2ray/trojan 的区别的话 [请点这里](https://github.com/githubvpn007/proxy)
