@@ -16,7 +16,7 @@ ShadowsocksR、 Shadowsocks、ClashR、vmess 、Clash、V2ray 、vpn代理、vpn
 |   Trojan-Go客户端   |   [winXray](https://github.com/TheMRLL/winxray/releases)   <br/>  [Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)     |   [Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)         |        [Igniter-Go(自己编译)](https://codeload.github.com/p4gefau1t/trojan-go-android/zip/v0.1.0-pre-alpha20)         | [Shadowrocket](https://github.com/githubvpn007/v2rayNvpn/releases/tag/Shadowrocket_2.1.12)
 
 
-
+#### 美区AppleID购买  [友情地址](https://xiaoxx.store/)
 
 
 
