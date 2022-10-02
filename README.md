@@ -16,14 +16,14 @@ ShadowsocksR、 Shadowsocks、ClashR、vmess 、Clash、V2ray 、vpn代理、vpn
 |   Trojan-Go客户端   |   [winXray](https://github.com/TheMRLL/winxray/releases)   <br/>  [Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)     |   [Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)         |        [Igniter-Go(自己编译)](https://codeload.github.com/p4gefau1t/trojan-go-android/zip/v0.1.0-pre-alpha20)         | [Shadowrocket](https://github.com/githubvpn007/v2rayNvpn/releases/tag/Shadowrocket_2.1.12)
 
 
-**更多软件整理：** 
-[v2ray客户端全集](https://xiaoheicn.top/v2ray客户端全集/)
-[shadowsocksr客户端全集](https://xiaoheicn.top/shadowsocks-ss客户端全集/)
-[ssr客户端全集](https://xiaoheicn.top/shadowsocksr-ssr客户端全集/)
-[trojan客户端全集](https://xiaoheicn.top/trojan客户端下载/)
-[trojan-go客户端全集](https://xiaoheicn.top/trojan-go客户端下载/)
-[wireguard客户端全集](https://xiaoheicn.top/wireguard客户端/)
-[xray客户端全集](https://xiaoheicn.top/xray客户端全集/)
+**更多软件整理：**  
+[v2ray客户端全集](https://xiaoheicn.top/v2ray客户端全集/)  
+[shadowsocksr客户端全集](https://xiaoheicn.top/shadowsocks-ss客户端全集/)  
+[ssr客户端全集](https://xiaoheicn.top/shadowsocksr-ssr客户端全集/)  
+[trojan客户端全集](https://xiaoheicn.top/trojan客户端下载/)  
+[trojan-go客户端全集](https://xiaoheicn.top/trojan-go客户端下载/)  
+[wireguard客户端全集](https://xiaoheicn.top/wireguard客户端/)  
+[xray客户端全集](https://xiaoheicn.top/xray客户端全集/)  
 
 
 
